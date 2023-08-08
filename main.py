@@ -2,7 +2,8 @@ import requests
 import json
 
 #from bs_opponents import get_opponents
-from bs_select_opponents import get_opponents
+#from bs_select_opponents import get_opponents
+from bs_xpath_opponents import get_opponents
 
 response = requests.get('https://en.wikipedia.org/wiki/Khabib_Nurmagomedov')
 
