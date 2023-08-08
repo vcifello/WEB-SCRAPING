@@ -1,0 +1,91 @@
+[
+  {
+    "link": "https://en.wikipedia.org/wiki/Justin_Gaethje",
+    "name": "Justin Gaethje",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Dustin_Poirier",
+    "name": "Dustin Poirier",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Conor_McGregor",
+    "name": "Conor McGregor",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Al_Iaquinta",
+    "name": "Al Iaquinta",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Edson_Barboza",
+    "name": "Edson Barboza",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Michael_Johnson_(fighter)",
+    "name": "Michael Johnson",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Darrell_Horcher",
+    "name": "Darrell Horcher",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Rafael_dos_Anjos",
+    "name": "Rafael dos Anjos",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Pat_Healy_(fighter)",
+    "name": "Pat Healy",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Abel_Trujillo",
+    "name": "Abel Trujillo",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Thiago_Tavares",
+    "name": "Thiago Tavares",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Gleison_Tibau",
+    "name": "Gleison Tibau",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Kamal_Shalorus",
+    "name": "Kamal Shalorus",
+    "outcome": "Win"
+  },
+  { "link": null, "name": "Arymarcel Santos", "outcome": "Win" },
+  { "link": null, "name": "Vadim Sandulskiy", "outcome": "Win" },
+  { "link": null, "name": "Khamiz Mamedov", "outcome": "Win" },
+  { "link": null, "name": "Kadzhik Abadzhyan", "outcome": "Win" },
+  { "link": null, "name": "Ashot Shaginyan", "outcome": "Win" },
+  { "link": null, "name": "Said Khalilov", "outcome": "Win" },
+  { "link": null, "name": "Alexander Agafonov", "outcome": "Win" },
+  { "link": null, "name": "Vitaliy Ostroskiy", "outcome": "Win" },
+  {
+    "link": "https://en.wikipedia.org/wiki/Ali_Bagov",
+    "name": "Ali Bagov",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Shahbulat_Shamhalaev",
+    "name": "Shahbulat Shamhalaev",
+    "outcome": "Win"
+  },
+  { "link": null, "name": "Eldar Eldarov", "outcome": "Win" },
+  { "link": null, "name": "Said Akhmed", "outcome": "Win" },
+  { "link": null, "name": "Shamil Abdulkerimov", "outcome": "Win" },
+  { "link": null, "name": "Ramazan Kurbanismailov", "outcome": "Win" },
+  { "link": null, "name": "Magomed Magomedov", "outcome": "Win" },
+  { "link": null, "name": "Vusal Bayramov", "outcome": "Win" }
+]

@@ -5,3 +5,7 @@ source ./venv/bin/activate # activate your new venv
 pip3 install requests
 
 pip3 install -r requirements.txt
+
+
+
+https://en.wikipedia.org/wiki/Khabib_Nurmagomedov
