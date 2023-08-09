@@ -1,4 +1,15 @@
 from parsel import Selector
+from requests import get
+
+# import urllib.request
+
+def get_opponents_with_info(html):
+    opponents = get_opponents(html)
+    for o in opponents:
+        if link := o.get('link'):
+            response = get(link)
+            o['info'] = get_fighter_info(response.text)
+    return opponents
 
 def get_opponents(html):
     selector = Selector(text=html)
@@ -62,8 +73,12 @@ def get_fighter_info(html):
             imp = parts[0].strip(' ')
             metric = parts[1].strip(")")
             fighter_info['height'] = {
-                'imperial': imp,
-                'metric': metric,
+                'imperial': imp.replace('\u00a0',' '),
+                'metric': metric.replace('\u00a0',' '),
             }
+
+    # url = "https://upload.wikimedia.org/wikipedia/commons/6/6c/Justin_Gaethje_at_press_conference.png"
+    # urllib.request.urlretrieve(url, f"{fighter_info['name']}.png")
+
 
     return fighter_info
